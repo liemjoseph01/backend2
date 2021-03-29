@@ -1,12 +1,12 @@
 {		
-	name: "tailieuweb/backend-web2",		
+	name: "liemjoseph01/backend2",		
 	description: "Create text",		
 	keywords: [],		
 	authors: [
 		{		
-	name: "tailieuweb",		
-	email: "tailieuweb.com@gmail.com",		
-	homepage: "http://tailieuweb.com"
+	name: "liemjoseph01",		
+	email: "liemlt.69.student@fit.tdc.edu.vn",		
+	
 		}
 	],		
 	license: "MIT",		
